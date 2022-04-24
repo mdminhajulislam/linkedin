@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.table {
+  margin: 80px;
+  width: 320px;
+  height: 500px;
+  background-color: rgb(246, 242, 236);
+  box-shadow: 8px 8px 20px;
+}
+.padd {
+  padding: 0px 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.linkedin {
+  padding: 30px 0px;
+  color: rgb(4, 122, 226);
+  
+}
+span{
+  background-color:rgb(4, 122, 226);
+  color:#fff;
+  border-radius: 2px;
+}
+.sign{
+ 
+  font-size: 30px;
+  color: black;
+ }
+
+input#email {
+  padding: 10px;
+  margin: 10px 0px;
+  width: 265px;
+  border: 1px solid gray;
+  border-radius: 2px;
+}
+input#password {
+  padding: 10px;
+  margin: 7px 0px;
+  width: 265px;
+  border: 1px solid gray;
+  border-radius: 2px;
+}
+
+.for {
+  padding: 10px 0px;
+  color: rgb(4, 122, 226);
+}
+.for a {
+  text-decoration: none;
+  color:rgb(4, 122, 226);
+}
+
+input[type="button"] {
+  padding: 10px;
+  margin: 7px 0px;
+  width: 287px;
+  border: 3px solid rgb(4, 122, 226);
+  border-radius: 35px;
+  background-color: rgb(4, 122, 226);
+  color:#fff;
+  cursor: pointer;
+}
+
